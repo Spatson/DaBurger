@@ -1,0 +1,26 @@
+.not-eaten {
+    padding: 5px;
+    background-color: white;
+    margin-bottom: 10px;
+  }
+  .eaten {
+    padding: 5px;
+    height: 48px;
+    background-color: red;
+    color: gray;
+    margin-bottom: 10px;
+  }
+  button {
+    padding: 5px;
+  }
+  body {
+    background-color: lightblue;
+    margin: 20px;
+  }
+  img {
+    max-width: 150px;
+  }
+  .jumbotron {
+    padding: 10px;
+    align-content: center;
+  }
